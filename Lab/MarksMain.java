@@ -1,3 +1,5 @@
+//3. Write a Java program that calculates and displays grades based on student scores stored in an array.
+    
 class Student
 {
     byte score;
