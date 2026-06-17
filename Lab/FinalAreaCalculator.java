@@ -145,3 +145,49 @@ public class ShapeCalculator {
 
 }
 
+
+//run:
+//Enter the Radius of Circle
+//2
+//
+//
+//Enter the Length of Rectangle
+//2
+//Enter the Breadth of Rectangle
+//3
+//
+//
+//Enter the length of a for Triangle
+//3
+//Enter the length of b of Triangle
+//4
+//Enter the length of c of Triangle
+//5
+//
+//
+//Enter the Slope of Line(m)
+//4
+//Enter the horizontal coordinate of Line(x)
+//5
+//Enter  Y Intercept(c)
+//6
+//
+//
+//===Circle===
+//Area of a Circle is:12.571428571428571
+//Circumference of cirlce:12.571428571428571
+//
+//
+//=====Triangle=====
+//Area of a Rectangle is:6.0
+//Circumference of Rectangle:10.0
+//
+//
+//=====Triangle=====
+//Area of a Triangle is:6.0
+//Circumference of Triangle:12.0
+//
+//
+//====Line Equation=====
+//Y Intercept is:26.0
+
