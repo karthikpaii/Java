@@ -13,7 +13,7 @@ class Student {
     }
 }
 
-public class JavaApplication13 {
+public class Stat {
     public static void main(String[] args) {
         Student s1 = new Student("John");
         Student s2 = new Student("Alice");
